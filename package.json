@@ -6,7 +6,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "private": true,
+  "private": false,
   "keywords": [],
   "author": "",
   "license": "ISC",
