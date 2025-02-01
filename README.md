@@ -1,6 +1,6 @@
 **Endpoint URL**
 
-/api/user
+http://localhost:5400/api/user
 
 **npm packages**
 
